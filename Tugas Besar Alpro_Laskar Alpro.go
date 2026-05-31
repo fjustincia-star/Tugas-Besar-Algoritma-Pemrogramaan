@@ -1,6 +1,6 @@
 /*
  * Program      : Aplikasi Manajemen dan Pemantauan Polusi Udara Lokal
- * Workspace    : hilalaufa/tugas-besar-polusi
+ * Workspace    : fjustincia/tugas-besar-polusi
  * Description  : Implementasi CRUD, Sequential/Binary Search, dan Selection/Insertion Sort di Golang
  */
 
